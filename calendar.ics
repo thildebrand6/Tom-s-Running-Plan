@@ -22,24 +22,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:toms-running-plan-20261118@mss-calendar
-DTSTAMP:20261113T090000Z
-LAST-MODIFIED:20261113T090000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Easy run and strides
-DESCRIPTION:30–35 min easy conversational run plus 4 × 80 m strides wi
- th full walk-back recovery.
+DTSTAMP:20261118T070000Z
+LAST-MODIFIED:20261118T070000Z
+SEQUENCE:1
+DTSTART;TZID=Australia/Melbourne:20261119T093000
+DTEND;TZID=Australia/Melbourne:20261119T101000
+SUMMARY:5 km HYROX pace run with client
+DESCRIPTION:1 km easy warm-up at 6:00–6:15/km\; 3 km at client's HYROX target pace of 5:25–5:35/km\; 1 km easy cool-down at 5:50–6:15/km. Keep Tom's effort easy (RPE 3–4). Reassess Friday after the run.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:toms-running-plan-20261120@mss-calendar
-DTSTAMP:20261113T090000Z
-LAST-MODIFIED:20261113T090000Z
+DTSTAMP:20261118T070000Z
+LAST-MODIFIED:20261118T070000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:5 × 2 min aerobic fartlek
-DESCRIPTION:Warm up 10–15 min\; 5 × 2 min at 4:20–4:30/km with 2 min e
- asy jog recovery\; RPE 7–8\; cool down.
+SUMMARY:Optional easy run - review after Thursday
+DESCRIPTION:Optional 20–25 min easy conversational running only if recovered after Thursday. No hard intervals planned. Rest instead if fatigued or sore. Review after Thursday's client run to decide.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
